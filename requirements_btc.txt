@@ -1,0 +1,9 @@
+flask==3.1.0
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+anthropic==0.109.2
+gunicorn==23.0.0
+requests==2.32.3
+pydantic==2.13.4
+logfire==4.37.0
